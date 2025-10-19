@@ -1,0 +1,21 @@
+# Visual Studio files
+.vs/
+*.csproj.user
+*.suo
+
+# .NET Core build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Other
+*.log
+*.http
